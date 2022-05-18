@@ -14,7 +14,7 @@
     หรือ
     **ทำการตรวจสอบเวอร์ชั่นล่าสุดสำหรับปรับใช้กับ PC  ของคุณแบบทันที >> https://github.com/chalitguza/autofill-Google-Form/releases
     ==========2.ทำให้มันทำงาน===========
-    ** แตกไฟล์ที่ Download มาให้เรียบร้อย คุณจะพบ config.json ภายในนั้นให้คุณเปลี่ยน URL Google form  ของคุณ
+    ** แตกไฟล์ที่ Download มาให้เรียบร้อย คุณจะพบ config.json ภายในนั้นให้คุณเปลี่ยน URL Google form  ของคุณ ด้วย notepad++ หรืออื่นๆ 
     ** เริ่มการเรียกใช้งาน ด้วยไฟล์ Autofill.exe
     Dev.. FB.COM/BKBBIRD
     =========================
